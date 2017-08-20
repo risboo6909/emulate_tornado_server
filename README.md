@@ -1,4 +1,4 @@
-Collection of simple functions to simplify tornado-based clients testing.
+Collection of short functions to simplify tornado-based clients testing.
 Provides tools to simplify http server emulation for thorough tests of
 tornado-based clients in a closest to real world way.
 
