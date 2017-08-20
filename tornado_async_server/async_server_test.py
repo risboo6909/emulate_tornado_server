@@ -15,7 +15,7 @@
 # ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
 # OR OTHER DEALINGS IN THE SOFTWARE.
 
-"""Collection of simple functions to simplify tornado-based clients testing.
+"""Collection of short functions to simplify tornado-based clients testing.
 
 Provides tools to simplify http server emulation for thorough tests of
 tornado-based clients in a closest to real world way.
